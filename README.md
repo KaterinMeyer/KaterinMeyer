@@ -1,17 +1,18 @@
-<img https://github.com/KaterinMeyer/KaterinMeyer/blob/main/header.png>
-### Hi there 👋
+<img src="https://github.com/KaterinMeyer/KaterinMeyer/blob/main/header.png" alt="banner that says Katerin Meyer - Full Stack Developer">
 
-<!--
-**KaterinMeyer/KaterinMeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome - Bienvenid@
 
-Here are some ideas to get you started:
+¡Hola! 👋 Soy Katerin Meyer, ingeniera civil en obras civiles con una pasión por el desarrollo web y la tecnología. He finalizado el Bootcamp de Full Stack Developer para poder potenciar mis conocimiento de desarrollo web. Bienvenid@ a mi repositorio de GitHub, donde podrás conocer más sobre mí, mis proyectos y habilidades técnicas.
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desde siempre he sido entusiasta de encontrar soluciones innovadoras y eficientes, tanto en el campo de la ingeniería como en el desarrollo de software. La combinación de mis conocimientos en ingeniería civil y mi formación como Full Stack Developer me permitirá abordar proyectos desde una perspectiva integral, enfocándome en crear soluciones sólidas y escalables.
+##  💭 Habilidades Técnicas
+
+Lenguajes de programación: Visual Basic y JavaScript.
+Front-end: HTML, CSS y React.
+Back-end: Node.js, Express y MongoDB.
+
+
+## 🤗 Agradecimientos
+
+Quiero agradecer al Staff y Coaches del Bootcamp Full Stack Developer de la Universidad del Desarrollo. 
