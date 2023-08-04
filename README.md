@@ -38,6 +38,13 @@ Desde siempre he sido entusiasta de encontrar soluciones innovadoras y eficiente
 <br/>  
 
 
+## 👤 Contacto
+<div align="center">  
+</a>
+<a href="https://www.linkedin.com/in/katerin-meyer-hasseldieck-aa832660/">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>
 
 ## 🤗 Agradecimientos
 
