@@ -37,6 +37,86 @@ Desde siempre he sido entusiasta de encontrar soluciones innovadoras y eficiente
 
 <br/>  
 
+## 💿Proyectos realizados
+<div>
+  <div><strong>
+    - Proyecto 01 - Landing Page: "Entre Fierro y Madera"
+    
+  </strong></div>
+    <div>
+    Proyecto realizado con html semántico estanar no.5 (HTML5) y CSS. Para su creación se uso el programa Visual Studio Code. Se implementaron atributos de class y id para dar forma y estructura al proyecto.
+    </div>
+    <div>
+    Link Repositorio Github: https://shorturl.at/kEO13
+    </div>
+    <div>
+    Link Resultado: https://shorturl.at/gnMR2
+    </div>
+</div>
+
+<div>
+  <div><strong>
+    - Proyecto 02 - CRUD: "Tareas del hogar"
+    
+  </strong></div>
+    <div>
+    Es una aplicación CRUD, que es el acrónimo de "Create", "Read, "Update" y "Delete". Se aplicó HTML5 y CSS, además de implementar LocalStorage para almacenar datos de manera local en el navegador del usuario. 
+    </div>
+    <div>
+    Link Github: https://shorturl.at/fqBU4
+    </div>
+    <div>
+    Link Resultado: https://shorturl.at/fnoy3
+    </div>
+</div>
+
+<div>
+  <div><strong>
+    - Proyecto 03 - Dashboard: "Indicadores Económicos"
+    
+  </strong></div>
+    <div>
+    Proyecto que aplica HTML5, CSS y Javascript, con una conexión vía API para conseguir la información y crear una sección de gráficos con Charts.js. Se aplican procesos síncronos y asíncronos en JS. 
+    </div>
+    <div>
+    Link Github: https://shorturl.at/fyFGI
+    </div>
+    <div>
+    Link Resultado: https://shorturl.at/htJL8
+    </div>
+</div>
+
+<div>
+  <div><strong>
+    - Proyecto 04 - Restaurant App: "Restaurant München"
+    
+  </strong></div>
+    <div>
+    El proyecto consta de una aplicación de Restaurant, aplicando HTML5, CSS y Javascript además de ReactJS (props y hooks) y una conección a una base de datos, en este caso Firebase.  
+    </div>
+    <div>
+    Link Github: https://shorturl.at/fgnou
+    </div>
+    <div>
+    Link Resultado: https://shorturl.at/eoPS1
+    </div>
+</div>
+
+<div>
+  <div><strong>
+    - Proyecto 05 - Aplicación de eCommerce: "Restaurant München"
+    
+  </strong></div>
+    <div>
+    Usando como base el Proyecto 04, se realiza el quinto proyecto del Bootcamp, aplicando HTML5, CSS, Javascript, ReactJS, Base de Datos (MongoDB) y Pasarela de Pago (Paypal). En esta App el usuario se puede registrar e iniciar sesión, conectándose mediante una API para realizar este proceso. Luego puede agregar ítems al carro de compras y realizar el pago mediante PayPal.    
+    </div>
+    <div>
+    Link Github: https://shorturl.at/zHL29
+    </div>
+    <div>
+    Link Resultado: https://shorturl.at/jyBJY
+    </div>
+</div>
 
 ## 👤 Contacto
 <div align="center">  
